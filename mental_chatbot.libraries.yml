@@ -1,0 +1,16 @@
+# Custom module library for general purposes.
+mental_chatbot_assets:
+  js:
+    assets/js/mental-chatbot.js: {}
+  css:
+    component:
+      assets/css/mental-chatbot.css: {}
+  dependencies:
+    - core/matchmedia
+    - core/jquery
+    - core/drupal
+    - core/jquery.once
+    - core/drupal.debounce
+    - core/drupal.ajax
+    - core/drupalSettings
+    - core/collapse

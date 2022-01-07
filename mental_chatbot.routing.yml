@@ -1,0 +1,15 @@
+mental_chatbot.settings_form:
+  path: '/admin/config/mental-chatbot'
+  defaults:
+    _title: 'Mental Chatbot configuration'
+    _form: 'Drupal\mental_chatbot\Form\SettingsForm'
+  requirements:
+    _permission: 'administer site configuration'
+
+mental_chatbot.conversation:
+  path: '/chat'
+  defaults:
+    _title: 'Chat'
+    _controller: 'Drupal\mental_chatbot\Controller\MentalChatbotController::chat'
+  requirements:
+    _access: 'TRUE'

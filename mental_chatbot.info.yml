@@ -1,0 +1,7 @@
+name: mental_chatbot
+type: module
+description: Create chatbot integrated with google dialgflow.
+package: Custom
+version: 1.x
+core: 8.x
+core_version_requirement: ^8 || ^9

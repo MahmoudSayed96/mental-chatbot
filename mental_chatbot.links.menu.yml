@@ -1,0 +1,6 @@
+mental_chatbot.settings_form:
+  title: Mental Chatbot
+  description: Mental Chatbot configuration.
+  parent: system.admin_config
+  route_name: mental_chatbot.settings_form
+  weight: 150

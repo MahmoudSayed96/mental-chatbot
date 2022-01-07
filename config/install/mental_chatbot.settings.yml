@@ -1,0 +1,7 @@
+mental_chatbot:
+  chatbot_title: "Mental ChatBot"
+  chatbot_logo: '../assets/images/chatbot.png'
+  chatbot_user_avatar: '../assets/images/user.png'
+  project_id: ''
+  client_secrit: ''
+
