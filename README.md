@@ -1,6 +1,6 @@
 > ```
 >
->  Mental Chatbot - The easiest way to build powerful bots and chatbot
+>  Dialog Flow Chatbot - The easiest way to build powerful bots and chatbot
 >  By integrated with google dialogflow
 >
 > ```
